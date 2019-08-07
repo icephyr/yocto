@@ -1,0 +1,2 @@
+MYiR-iMX-Linux.tar.gz filter=lfs diff=lfs merge=lfs -text
+MYiR-iMX-uboot.tar.gz filter=lfs diff=lfs merge=lfs -text
